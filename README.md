@@ -36,7 +36,7 @@ Execute the programs and publish them.
     <body>
         <h1 align="center">Thiruvottiyur-Chennai</h1>
         <h2 align="center">Shubnum Fathima (25010692)</h2>
-        <img src="map.png" usemap="#image-map">
+        <img src="map.jpg" usemap="#image-map">
 
 <map name="image-map">
     <area target="" alt="Akash" title="Akash" href="AHospital.html" coords="872,297,1010,365" shape="rect">
@@ -115,7 +115,7 @@ wimcometro.html
 ```
 
 ## OUTPUT
-![alt text](map.png)
+![alt text](map.jpg)
 ![alt text](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
